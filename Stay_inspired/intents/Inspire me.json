@@ -1,0 +1,432 @@
+{
+  "id": "89f998ec-0ed2-4ba5-9915-ad6f0fdf18d5",
+  "name": "Inspire me",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "stay-inspired",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c5eae3f4-216e-4459-9858-79ccb71cc9aa",
+          "name": "inspire",
+          "required": false,
+          "dataType": "@inspire",
+          "value": "$inspire",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en-us",
+              "value": "What would you like to do next?"
+            },
+            {
+              "lang": "en-ca",
+              "value": "What would you like to do next?"
+            },
+            {
+              "lang": "en-gb",
+              "value": "What would you like to do next?"
+            },
+            {
+              "lang": "en-in",
+              "value": "What would you like to do next?"
+            },
+            {
+              "lang": "en-au",
+              "value": "What would you like to do next?"
+            },
+            {
+              "lang": "en",
+              "value": "What would you like to do next?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Inspire me"
+            },
+            {
+              "title": "Bye"
+            },
+            {
+              "title": "Quit"
+            }
+          ],
+          "lang": "en-us",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-us",
+          "speech": [
+            "“Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.”  - Paulo Coelho",
+            "“Of course motivation is not permanent. But then, neither is bathing; but it is something you should do on a regular basis.”  - Zig Ziglar.",
+            "“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.” - Roy T. Bennett",
+            "“More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.” - Roy T. Bennett",
+            "“When someone tells me \"no,\" it doesn\u0027t mean I can\u0027t do it, it simply means I can\u0027t do it with them.” - Karen E. Quinones Miller",
+            "“Do what is right, not what is easy nor what is popular.” - Roy T. Bennett",
+            "“Keep Going, Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.” -  Roy T. Bennett",
+            "“Do not fear failure but rather fear not trying.” - Roy T. Bennett",
+            "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+            "“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”",
+            "“Great things happen to those who don\u0027t stop believing, trying, learning, and being grateful.”",
+            "“Be brave to stand for what you believe in even if you stand alone.”",
+            "“Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.” - Roy T. Bennett",
+            "“The way to get started is to quit talking and begin doing.\" - Walt Disney",
+            "\"Don’t say you don’t have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother Teresa, Leonardo da Vinci and Albert Einstein.\" - H. Jackson Brown",
+            "\"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.\" - Charles Darwin",
+            "\"You are not your resume, you are your work.\"",
+            "\"When writing the story of your life, don\u0027t let anyone else hold the pen.\"",
+            "\"Happiness is not something you postpone for the future; it is something you design for the present.\" - Jim Rohn",
+            "\"Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.\" - Thomas Jefferson",
+            "\"A man is but the product of his thoughts. What he thinks, he becomes.\" - Mahatma Gandhi",
+            "\"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.\" - Denis Waitley",
+            "\"When you change your thoughts, you change your world.\" -  Norman Vincent Peale",
+            "\"The Pessimist complains about the wind. The optimist expects it to change. The leader adjusts the sails.\" - John Maxwell",
+            "\"One best book is equal to a hundred good friends, but one good friend is equal to a library.\"  -Dr. A.P.J. Abdul Kalam",
+            "\"I am not a Handsome guy, but I can give my hand-to-some one who needs help. beauty is in the heart not in the face.\" -Dr. A.P.J. Abdul Kalam",
+            "\"Look at the sky. we are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.\" - Dr. A.P.J. Abdul Kalam",
+            "\"Confidence and hard-work is the best medicine to kill the disease called failure. it will make you a successful person.\" - Dr. A.P.J. Abdul Kalam",
+            "“Life is like riding a bicycle. To keep your balance you must keep moving.” – Albert Einstein",
+            "“Insanity: doing the same thing over and over again and expecting different results.” – Albert Einstein"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Inspire me"
+            },
+            {
+              "title": "Bye"
+            },
+            {
+              "title": "Quit"
+            }
+          ],
+          "lang": "en-ca",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-ca",
+          "speech": [
+            "“Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.”  - Paulo Coelho",
+            "“Of course motivation is not permanent. But then, neither is bathing; but it is something you should do on a regular basis.”  - Zig Ziglar.",
+            "“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.” - Roy T. Bennett",
+            "“More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.” - Roy T. Bennett",
+            "“When someone tells me \"no,\" it doesn\u0027t mean I can\u0027t do it, it simply means I can\u0027t do it with them.” - Karen E. Quinones Miller",
+            "“Do what is right, not what is easy nor what is popular.” - Roy T. Bennett",
+            "“Keep Going, Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.” -  Roy T. Bennett",
+            "“Do not fear failure but rather fear not trying.” - Roy T. Bennett",
+            "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+            "“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”",
+            "“Great things happen to those who don\u0027t stop believing, trying, learning, and being grateful.”",
+            "“Be brave to stand for what you believe in even if you stand alone.”",
+            "“Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.” - Roy T. Bennett",
+            "“The way to get started is to quit talking and begin doing.\" - Walt Disney",
+            "\"Don’t say you don’t have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother Teresa, Leonardo da Vinci and Albert Einstein.\" - H. Jackson Brown",
+            "\"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.\" - Charles Darwin",
+            "\"You are not your resume, you are your work.\"",
+            "\"When writing the story of your life, don\u0027t let anyone else hold the pen.\"",
+            "\"Happiness is not something you postpone for the future; it is something you design for the present.\" - Jim Rohn",
+            "\"Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.\" - Thomas Jefferson",
+            "\"A man is but the product of his thoughts. What he thinks, he becomes.\" - Mahatma Gandhi",
+            "\"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.\" - Denis Waitley",
+            "\"When you change your thoughts, you change your world.\" -  Norman Vincent Peale",
+            "\"The Pessimist complains about the wind. The optimist expects it to change. The leader adjusts the sails.\" - John Maxwell",
+            "\"One best book is equal to a hundred good friends, but one good friend is equal to a library.\"  -Dr. A.P.J. Abdul Kalam",
+            "\"I am not a Handsome guy, but I can give my hand-to-some one who needs help. beauty is in the heart not in the face.\" -Dr. A.P.J. Abdul Kalam",
+            "\"Look at the sky. we are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.\" - Dr. A.P.J. Abdul Kalam",
+            "\"Confidence and hard-work is the best medicine to kill the disease called failure. it will make you a successful person.\" - Dr. A.P.J. Abdul Kalam",
+            "“Life is like riding a bicycle. To keep your balance you must keep moving.” – Albert Einstein",
+            "“Insanity: doing the same thing over and over again and expecting different results.” – Albert Einstein"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Inspire me"
+            },
+            {
+              "title": "Bye"
+            },
+            {
+              "title": "Quit"
+            }
+          ],
+          "lang": "en-gb",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-gb",
+          "speech": [
+            "“Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.”  - Paulo Coelho",
+            "“Of course motivation is not permanent. But then, neither is bathing; but it is something you should do on a regular basis.”  - Zig Ziglar.",
+            "“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.” - Roy T. Bennett",
+            "“More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.” - Roy T. Bennett",
+            "“When someone tells me \"no,\" it doesn\u0027t mean I can\u0027t do it, it simply means I can\u0027t do it with them.” - Karen E. Quinones Miller",
+            "“Do what is right, not what is easy nor what is popular.” - Roy T. Bennett",
+            "“Keep Going, Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.” -  Roy T. Bennett",
+            "“Do not fear failure but rather fear not trying.” - Roy T. Bennett",
+            "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+            "“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”",
+            "“Great things happen to those who don\u0027t stop believing, trying, learning, and being grateful.”",
+            "“Be brave to stand for what you believe in even if you stand alone.”",
+            "“Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.” - Roy T. Bennett",
+            "“The way to get started is to quit talking and begin doing.\" - Walt Disney",
+            "\"Don’t say you don’t have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother Teresa, Leonardo da Vinci and Albert Einstein.\" - H. Jackson Brown",
+            "\"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.\" - Charles Darwin",
+            "\"You are not your resume, you are your work.\"",
+            "\"When writing the story of your life, don\u0027t let anyone else hold the pen.\"",
+            "\"Happiness is not something you postpone for the future; it is something you design for the present.\" - Jim Rohn",
+            "\"Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.\" - Thomas Jefferson",
+            "\"A man is but the product of his thoughts. What he thinks, he becomes.\" - Mahatma Gandhi",
+            "\"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.\" - Denis Waitley",
+            "\"When you change your thoughts, you change your world.\" -  Norman Vincent Peale",
+            "\"The Pessimist complains about the wind. The optimist expects it to change. The leader adjusts the sails.\" - John Maxwell",
+            "\"One best book is equal to a hundred good friends, but one good friend is equal to a library.\"  -Dr. A.P.J. Abdul Kalam",
+            "\"I am not a Handsome guy, but I can give my hand-to-some one who needs help. beauty is in the heart not in the face.\" -Dr. A.P.J. Abdul Kalam",
+            "\"Look at the sky. we are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.\" - Dr. A.P.J. Abdul Kalam",
+            "\"Confidence and hard-work is the best medicine to kill the disease called failure. it will make you a successful person.\" - Dr. A.P.J. Abdul Kalam",
+            "“Life is like riding a bicycle. To keep your balance you must keep moving.” – Albert Einstein",
+            "“Insanity: doing the same thing over and over again and expecting different results.” – Albert Einstein"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Inspire me"
+            },
+            {
+              "title": "Bye"
+            },
+            {
+              "title": "Quit"
+            }
+          ],
+          "lang": "en-in",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "“Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.”  - Paulo Coelho",
+            "“Of course motivation is not permanent. But then, neither is bathing; but it is something you should do on a regular basis.”  - Zig Ziglar.",
+            "“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.” - Roy T. Bennett",
+            "“More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.” - Roy T. Bennett",
+            "“When someone tells me \"no,\" it doesn\u0027t mean I can\u0027t do it, it simply means I can\u0027t do it with them.” - Karen E. Quinones Miller",
+            "“Do what is right, not what is easy nor what is popular.” - Roy T. Bennett",
+            "“Keep Going, Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.” -  Roy T. Bennett",
+            "“Do not fear failure but rather fear not trying.” - Roy T. Bennett",
+            "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+            "“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”",
+            "“Great things happen to those who don\u0027t stop believing, trying, learning, and being grateful.”",
+            "“Be brave to stand for what you believe in even if you stand alone.”",
+            "“Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.” - Roy T. Bennett",
+            "“The way to get started is to quit talking and begin doing.\" - Walt Disney",
+            "\"Don’t say you don’t have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother Teresa, Leonardo da Vinci and Albert Einstein.\" - H. Jackson Brown",
+            "\"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.\" - Charles Darwin",
+            "\"You are not your resume, you are your work.\"",
+            "\"When writing the story of your life, don\u0027t let anyone else hold the pen.\"",
+            "\"Happiness is not something you postpone for the future; it is something you design for the present.\" - Jim Rohn",
+            "\"Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.\" - Thomas Jefferson",
+            "\"A man is but the product of his thoughts. What he thinks, he becomes.\" - Mahatma Gandhi",
+            "\"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.\" - Denis Waitley",
+            "\"When you change your thoughts, you change your world.\" -  Norman Vincent Peale",
+            "\"The Pessimist complains about the wind. The optimist expects it to change. The leader adjusts the sails.\" - John Maxwell",
+            "\"One best book is equal to a hundred good friends, but one good friend is equal to a library.\"  -Dr. A.P.J. Abdul Kalam",
+            "\"I am not a Handsome guy, but I can give my hand-to-some one who needs help. beauty is in the heart not in the face.\" -Dr. A.P.J. Abdul Kalam",
+            "\"Look at the sky. we are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.\" - Dr. A.P.J. Abdul Kalam",
+            "\"Confidence and hard-work is the best medicine to kill the disease called failure. it will make you a successful person.\" - Dr. A.P.J. Abdul Kalam",
+            "“Life is like riding a bicycle. To keep your balance you must keep moving.” – Albert Einstein",
+            "“Insanity: doing the same thing over and over again and expecting different results.” – Albert Einstein"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Inspire me"
+            },
+            {
+              "title": "Bye"
+            },
+            {
+              "title": "Quit"
+            }
+          ],
+          "lang": "en-au",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-au",
+          "speech": [
+            "“Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.”  - Paulo Coelho",
+            "“Of course motivation is not permanent. But then, neither is bathing; but it is something you should do on a regular basis.”  - Zig Ziglar.",
+            "“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.” - Roy T. Bennett",
+            "“More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.” - Roy T. Bennett",
+            "“When someone tells me \"no,\" it doesn\u0027t mean I can\u0027t do it, it simply means I can\u0027t do it with them.” - Karen E. Quinones Miller",
+            "“Do what is right, not what is easy nor what is popular.” - Roy T. Bennett",
+            "“Keep Going, Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.” -  Roy T. Bennett",
+            "“Do not fear failure but rather fear not trying.” - Roy T. Bennett",
+            "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+            "“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”",
+            "“Great things happen to those who don\u0027t stop believing, trying, learning, and being grateful.”",
+            "“Be brave to stand for what you believe in even if you stand alone.”",
+            "“Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.” - Roy T. Bennett",
+            "“The way to get started is to quit talking and begin doing.\" - Walt Disney",
+            "\"Don’t say you don’t have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother Teresa, Leonardo da Vinci and Albert Einstein.\" - H. Jackson Brown",
+            "\"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.\" - Charles Darwin",
+            "\"You are not your resume, you are your work.\"",
+            "\"When writing the story of your life, don\u0027t let anyone else hold the pen.\"",
+            "\"Happiness is not something you postpone for the future; it is something you design for the present.\" - Jim Rohn",
+            "\"Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.\" - Thomas Jefferson",
+            "\"A man is but the product of his thoughts. What he thinks, he becomes.\" - Mahatma Gandhi",
+            "\"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.\" - Denis Waitley",
+            "\"When you change your thoughts, you change your world.\" -  Norman Vincent Peale",
+            "\"The Pessimist complains about the wind. The optimist expects it to change. The leader adjusts the sails.\" - John Maxwell",
+            "\"One best book is equal to a hundred good friends, but one good friend is equal to a library.\"  -Dr. A.P.J. Abdul Kalam",
+            "\"I am not a Handsome guy, but I can give my hand-to-some one who needs help. beauty is in the heart not in the face.\" -Dr. A.P.J. Abdul Kalam",
+            "\"Look at the sky. we are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.\" - Dr. A.P.J. Abdul Kalam",
+            "\"Confidence and hard-work is the best medicine to kill the disease called failure. it will make you a successful person.\" - Dr. A.P.J. Abdul Kalam",
+            "“Life is like riding a bicycle. To keep your balance you must keep moving.” – Albert Einstein",
+            "“Insanity: doing the same thing over and over again and expecting different results.” – Albert Einstein"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Inspire me"
+            },
+            {
+              "title": "Bye"
+            },
+            {
+              "title": "Quit"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "“Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.”  - Paulo Coelho",
+            "“Of course motivation is not permanent. But then, neither is bathing; but it is something you should do on a regular basis.”  - Zig Ziglar.",
+            "“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.” - Roy T. Bennett",
+            "“More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.” - Roy T. Bennett",
+            "“When someone tells me \"no,\" it doesn\u0027t mean I can\u0027t do it, it simply means I can\u0027t do it with them.” - Karen E. Quinones Miller",
+            "“Do what is right, not what is easy nor what is popular.” - Roy T. Bennett",
+            "“Keep Going, Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.” -  Roy T. Bennett",
+            "“Do not fear failure but rather fear not trying.” - Roy T. Bennett",
+            "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+            "“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”",
+            "“Great things happen to those who don\u0027t stop believing, trying, learning, and being grateful.”",
+            "“Be brave to stand for what you believe in even if you stand alone.”",
+            "“Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.” - Roy T. Bennett",
+            "“The way to get started is to quit talking and begin doing.\" - Walt Disney",
+            "\"Don’t say you don’t have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother Teresa, Leonardo da Vinci and Albert Einstein.\" - H. Jackson Brown",
+            "\"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.\" - Charles Darwin",
+            "\"You are not your resume, you are your work.\"",
+            "\"When writing the story of your life, don\u0027t let anyone else hold the pen.\"",
+            "\"Happiness is not something you postpone for the future; it is something you design for the present.\" - Jim Rohn",
+            "\"Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.\" - Thomas Jefferson",
+            "\"A man is but the product of his thoughts. What he thinks, he becomes.\" - Mahatma Gandhi",
+            "\"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.\" - Denis Waitley",
+            "\"When you change your thoughts, you change your world.\" -  Norman Vincent Peale",
+            "\"The Pessimist complains about the wind. The optimist expects it to change. The leader adjusts the sails.\" - John Maxwell",
+            "\"One best book is equal to a hundred good friends, but one good friend is equal to a library.\"  -Dr. A.P.J. Abdul Kalam",
+            "\"I am not a Handsome guy, but I can give my hand-to-some one who needs help. beauty is in the heart not in the face.\" -Dr. A.P.J. Abdul Kalam",
+            "\"Look at the sky. we are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.\" - Dr. A.P.J. Abdul Kalam",
+            "\"Confidence and hard-work is the best medicine to kill the disease called failure. it will make you a successful person.\" - Dr. A.P.J. Abdul Kalam",
+            "“Life is like riding a bicycle. To keep your balance you must keep moving.” – Albert Einstein",
+            "“Insanity: doing the same thing over and over again and expecting different results.” – Albert Einstein"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "stay_inspired"
+    },
+    {
+      "name": "inspire_me"
+    },
+    {
+      "name": "inspire_my_day"
+    },
+    {
+      "name": "talk_to_stay_inspired"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

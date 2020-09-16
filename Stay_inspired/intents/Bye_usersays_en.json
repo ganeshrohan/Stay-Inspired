@@ -1,0 +1,92 @@
+[
+  {
+    "data": [
+      {
+        "text": "i got it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00cc8be7-a1bb-4670-b86f-961ab75c0ed7",
+    "data": [
+      {
+        "text": "Quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd1d129a-1c54-4796-b23a-2dc5912fe67e",
+    "data": [
+      {
+        "text": "Close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a9ea1d2-af12-49a3-90f2-ff3d99770e6e",
+    "data": [
+      {
+        "text": "Bye.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b848a2ed-741b-4a46-9e32-31b80c8ccd5b",
+    "data": [
+      {
+        "text": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00b785fd-8096-4ded-8779-13a96d4070c7",
+    "data": [
+      {
+        "text": "Thanks! Bye.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d984cb4a-a9a2-400e-9c83-57d2a57e8edb",
+    "data": [
+      {
+        "text": "See you again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

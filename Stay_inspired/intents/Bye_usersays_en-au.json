@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0101b381-5110-4c53-a839-8cd98d2f41dc",
+    "data": [
+      {
+        "text": "i got it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "463b9253-ef18-415a-aa52-99a5f275732f",
+    "data": [
+      {
+        "text": "Quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "341984df-2ecb-49e3-b59b-7fb0d27bf11e",
+    "data": [
+      {
+        "text": "Close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "e383aeba-5849-4381-8d65-14cc45095135",
+    "data": [
+      {
+        "text": "Bye.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "d523c16d-b5bb-4f85-ad75-b047ebeff1e4",
+    "data": [
+      {
+        "text": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "79368604-ce92-4d03-bf0f-ed0d3ebf221a",
+    "data": [
+      {
+        "text": "Thanks! Bye.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "e52c011d-1533-4bca-bae8-bd5c589352ac",
+    "data": [
+      {
+        "text": "See you again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  }
+]

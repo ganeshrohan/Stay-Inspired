@@ -1,0 +1,511 @@
+[
+  {
+    "id": "29f34756-4785-4597-9cc6-e4905bef318a",
+    "data": [
+      {
+        "text": "update me",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c5237c21-d8bd-4205-8c01-cbd720b76584",
+    "data": [
+      {
+        "text": "update",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "fa4a528d-439e-43bf-9292-1472aed868c9",
+    "data": [
+      {
+        "text": "greeting",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "0a8d4e0c-2f47-454a-bb84-845e495e8c7f",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "agree",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "759dadaf-89c6-40eb-8cb7-e4f8bcc3a62f",
+    "data": [
+      {
+        "text": "Talk to Stay ",
+        "userDefined": false
+      },
+      {
+        "text": "Inspired",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "5c819d0e-73c3-4a7e-afb2-a8e8566df402",
+    "data": [
+      {
+        "text": "great",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "fe4d400f-3004-41a7-92c3-12851c3cf30c",
+    "data": [
+      {
+        "text": "nice",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "fd59e70b-3204-4fb6-b68f-1cfb8b81ac70",
+    "data": [
+      {
+        "text": "greetings",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "09abb180-1273-4ab7-9a3a-53db5b260c9f",
+    "data": [
+      {
+        "text": "inspiring",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "e7c1c4c6-b249-4404-bfdf-e587e08819ae",
+    "data": [
+      {
+        "text": "talk to my test app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "9909a621-59a5-43cc-985b-0ded659998b8",
+    "data": [
+      {
+        "text": "talk to stay ",
+        "userDefined": false
+      },
+      {
+        "text": "inspired",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "b73644ee-cea5-4802-adf5-2c93dfdbb14b",
+    "data": [
+      {
+        "text": "Inspire",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      },
+      {
+        "text": " me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "5318d2dc-676d-43fe-9d7c-71067b610073",
+    "data": [
+      {
+        "text": "all right",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "efb86b85-c574-4494-aa6f-b45bdb07d50a",
+    "data": [
+      {
+        "text": "good one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "36a9c366-3a5d-42b7-90e5-5716d86cf2a6",
+    "data": [
+      {
+        "text": "Thanks tell few ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "e768a73a-1783-4251-85c1-feb1c449e681",
+    "data": [
+      {
+        "text": "next ",
+        "userDefined": false
+      },
+      {
+        "text": "quote",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "6aac44b4-d0a7-4157-930a-49c910342168",
+    "data": [
+      {
+        "text": "all okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "4c0c2229-d4cc-43c2-8c61-8320a8552096",
+    "data": [
+      {
+        "text": "inspire",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "b18ab374-bea1-4a2a-b226-ac123b5a61e0",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "06c84981-d48e-4fed-99ac-07cc9c3395c9",
+    "data": [
+      {
+        "text": "keep me ",
+        "userDefined": false
+      },
+      {
+        "text": "motivated",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "d5294fe4-6273-4d3e-ad61-9fd5c145038c",
+    "data": [
+      {
+        "text": "inspire",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      },
+      {
+        "text": " me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "4bf552e6-e438-4877-8f52-5c0d532baf2d",
+    "data": [
+      {
+        "text": "Tell me something interesting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "4e8fe308-3380-4b6d-afb5-4139de59e37e",
+    "data": [
+      {
+        "text": "inspire",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      },
+      {
+        "text": " my day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "34c1e249-68a6-40b2-a975-634ac6043d43",
+    "data": [
+      {
+        "text": "tell me a quote of the day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "a661d3ea-94d3-4748-9cc2-bfecefb5ab7f",
+    "data": [
+      {
+        "text": "motivate me",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "a215050c-a8c4-45ef-affc-db3ce1cb4e91",
+    "data": [
+      {
+        "text": "stay ",
+        "userDefined": false
+      },
+      {
+        "text": "inspire",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c7b93f86-512f-4a05-a1e5-65c14c8b1d26",
+    "data": [
+      {
+        "text": "tell me a quotes",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "c22d9c9e-4830-4edd-95d8-f0f869f1cccd",
+    "data": [
+      {
+        "text": "please ",
+        "userDefined": false
+      },
+      {
+        "text": "inspire",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      },
+      {
+        "text": " me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "128d1f15-f99e-4a99-849b-bf4d24b90fd9",
+    "data": [
+      {
+        "text": "quotes",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "8851ff40-c9a4-4e22-8967-26566ff4c3a8",
+    "data": [
+      {
+        "text": "get ",
+        "userDefined": false
+      },
+      {
+        "text": "inspired",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  },
+  {
+    "id": "5a03566f-d637-457d-9883-1216cab715e7",
+    "data": [
+      {
+        "text": "good",
+        "meta": "@inspire",
+        "alias": "inspire",
+        "userDefined": true
+      },
+      {
+        "text": " one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en-au",
+    "updated": 0
+  }
+]

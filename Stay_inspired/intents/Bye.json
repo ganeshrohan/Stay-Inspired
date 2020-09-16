@@ -1,0 +1,110 @@
+{
+  "id": "a6e501cd-7cce-4901-9b56-0f84c145641f",
+  "name": "Bye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-us",
+          "speech": [
+            "See you again.",
+            "Have a nice day.",
+            "Meet you again soon!",
+            "Take care! Have a great day.",
+            "Have a good day!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-ca",
+          "speech": [
+            "See you again.",
+            "Have a nice day.",
+            "Meet you again soon!",
+            "Take care! Have a great day.",
+            "Have a good day!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-gb",
+          "speech": [
+            "See you again.",
+            "Have a nice day.",
+            "Meet you again soon!",
+            "Take care! Have a great day.",
+            "Have a good day!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "See you again.",
+            "Have a nice day.",
+            "Meet you again soon!",
+            "Take care! Have a great day.",
+            "Have a good day!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-au",
+          "speech": [
+            "See you again.",
+            "Have a nice day.",
+            "Meet you again soon!",
+            "Take care! Have a great day.",
+            "Have a good day!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "See you again.",
+            "Have a nice day.",
+            "Meet you again soon!",
+            "Take care! Have a great day.",
+            "Have a good day!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
